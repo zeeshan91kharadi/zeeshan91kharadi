@@ -1,39 +1,120 @@
+<h1 align="center">Hi 👋, I'm Mohammadjissan Kharadi</h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<h1 align="center">Hi 👋, I'm mohammadjissan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://img.freepik.com/premium-vector/young-man-is-sitting-laptop-cozy-room-chatting-social-networks_187411-263.jpg" alt="coding">
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadjissan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadjissan" /> </p>
-<br>
-<br>
-
-
-- 🔭 I’m currently working on **freelancing project**
-
-- 🌱 I’m currently learning **React Native,java**
-
-- 💬 Ask me about **full stack**
-
-- 📫 How to reach me **mohammadjissankharadi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammadjissan-kharadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadjissan kharadi" height="30" width="40" /></a>
-<a href="https://instagram.com/zeeshan_shaikh.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeshan_shaikh.tech" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammadjissan&show_icons=true&locale=en&layout=compact" alt="mohammadjissan" /></p>
-<p>
-  <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohammadjissan&show_icons=true&locale=en"
-       alt="mohammadjissan" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Mohammadjissan&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
-<p>
-  <img align="center"
-       src="https://streak-stats.demolab.com?user=Mohammadjissan"
-       alt="mohammadjissan" />
+## 🚀 About Me
+
+- 🔭 Currently working on **Freelance Projects**
+- 🌱 Currently learning **React Native & Java**
+- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB**
+- 📫 Reach me at **mohammadjissankharadi@gmail.com**
+- ⚡ Fun fact: **I love building Full Stack Web Applications.**
+
+---
+
+<h3 align="left">🤝 Connect with me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammadjissan-kharadi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
+  </a>
+
+  <!-- Replace with your actual Instagram username -->
+  <a href="https://instagram.com/zeeshan_shaikh.tech" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45"/>
+  </a>
+
+  <a href="mailto:mohammadjissankharadi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mohammadjissan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadjissan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Mohammadjissan&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mohammadjissan&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadjissan&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 💙 Thanks for visiting!
+
+<p align="center">
+⭐ From <a href="https://github.com/Mohammadjissan">Mohammadjissan</a>
 </p>
